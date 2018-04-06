@@ -1,0 +1,6 @@
+Adding the doodoo file.  Adding even more details 
+to test the functionality of git and VIM.  Right now, 
+I'm curious to see how the word wrap works.  
+It seems to just wrap to the window size.  
+I'm not sure how it would print though.
+Added the line breaks again!

@@ -1,0 +1,9 @@
+This is a test!
+Adding more text to the file to test hg
+Actually I'm not testing hg, at this point 
+I'm testing git and pushing to a remote 
+github repo.  Seems to work.  Cool!
+I don't really like the formatting so I
+added some line feeds and carriage 
+returns!
+THE CAPSLOCK IS ON!!!
